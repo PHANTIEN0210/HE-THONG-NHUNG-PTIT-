@@ -1,0 +1,1265 @@
+Archive member included to satisfy reference by file (symbol)
+
+/usr/lib/gcc/arm-none-eabi/14.2.1/../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(libc_a-memcpy.o)
+                              Build/queue.o (memcpy)
+/usr/lib/gcc/arm-none-eabi/14.2.1/../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(libc_a-memset.o)
+                              Build/tasks.o (memset)
+
+Discarded input sections
+
+ .group         0x00000000        0xc Build/main.o
+ .group         0x00000000        0xc Build/main.o
+ .group         0x00000000        0xc Build/main.o
+ .group         0x00000000        0xc Build/main.o
+ .group         0x00000000        0xc Build/main.o
+ .group         0x00000000        0xc Build/main.o
+ .group         0x00000000        0xc Build/main.o
+ .group         0x00000000        0xc Build/main.o
+ .group         0x00000000        0xc Build/main.o
+ .group         0x00000000        0xc Build/main.o
+ .group         0x00000000        0xc Build/main.o
+ .group         0x00000000        0xc Build/main.o
+ .group         0x00000000        0xc Build/main.o
+ .group         0x00000000        0xc Build/main.o
+ .group         0x00000000        0xc Build/main.o
+ .group         0x00000000        0xc Build/main.o
+ .group         0x00000000        0xc Build/main.o
+ .group         0x00000000        0xc Build/main.o
+ .group         0x00000000        0xc Build/main.o
+ .group         0x00000000        0xc Build/main.o
+ .group         0x00000000        0xc Build/main.o
+ .group         0x00000000        0xc Build/main.o
+ .group         0x00000000        0xc Build/main.o
+ .text          0x00000000        0x0 Build/main.o
+ .data          0x00000000        0x0 Build/main.o
+ .bss           0x00000000        0x0 Build/main.o
+ .group         0x00000000        0xc Build/uart.o
+ .group         0x00000000        0xc Build/uart.o
+ .group         0x00000000        0xc Build/uart.o
+ .group         0x00000000        0xc Build/uart.o
+ .group         0x00000000        0xc Build/uart.o
+ .group         0x00000000        0xc Build/uart.o
+ .group         0x00000000        0xc Build/uart.o
+ .group         0x00000000        0xc Build/uart.o
+ .group         0x00000000        0xc Build/uart.o
+ .group         0x00000000        0xc Build/uart.o
+ .text          0x00000000        0x0 Build/uart.o
+ .data          0x00000000        0x0 Build/uart.o
+ .bss           0x00000000        0x0 Build/uart.o
+ .debug_macro   0x00000000      0xac0 Build/uart.o
+ .debug_macro   0x00000000      0x34e Build/uart.o
+ .debug_macro   0x00000000       0x2e Build/uart.o
+ .debug_macro   0x00000000       0x22 Build/uart.o
+ .debug_macro   0x00000000       0x1c Build/uart.o
+ .debug_macro   0x00000000       0x22 Build/uart.o
+ .debug_macro   0x00000000       0xbd Build/uart.o
+ .debug_macro   0x00000000      0xd23 Build/uart.o
+ .debug_macro   0x00000000     0xe09e Build/uart.o
+ .debug_macro   0x00000000       0x6d Build/uart.o
+ .group         0x00000000        0xc Build/button.o
+ .group         0x00000000        0xc Build/button.o
+ .group         0x00000000        0xc Build/button.o
+ .group         0x00000000        0xc Build/button.o
+ .group         0x00000000        0xc Build/button.o
+ .group         0x00000000        0xc Build/button.o
+ .group         0x00000000        0xc Build/button.o
+ .group         0x00000000        0xc Build/button.o
+ .group         0x00000000        0xc Build/button.o
+ .group         0x00000000        0xc Build/button.o
+ .group         0x00000000        0xc Build/button.o
+ .group         0x00000000        0xc Build/button.o
+ .group         0x00000000        0xc Build/button.o
+ .group         0x00000000        0xc Build/button.o
+ .group         0x00000000        0xc Build/button.o
+ .group         0x00000000        0xc Build/button.o
+ .group         0x00000000        0xc Build/button.o
+ .group         0x00000000        0xc Build/button.o
+ .group         0x00000000        0xc Build/button.o
+ .group         0x00000000        0xc Build/button.o
+ .group         0x00000000        0xc Build/button.o
+ .group         0x00000000        0xc Build/button.o
+ .group         0x00000000        0xc Build/button.o
+ .text          0x00000000        0x0 Build/button.o
+ .data          0x00000000        0x0 Build/button.o
+ .bss           0x00000000        0x0 Build/button.o
+ .debug_macro   0x00000000      0xac0 Build/button.o
+ .debug_macro   0x00000000      0x190 Build/button.o
+ .debug_macro   0x00000000      0x34e Build/button.o
+ .debug_macro   0x00000000       0x16 Build/button.o
+ .debug_macro   0x00000000       0x2e Build/button.o
+ .debug_macro   0x00000000       0x22 Build/button.o
+ .debug_macro   0x00000000       0x1c Build/button.o
+ .debug_macro   0x00000000       0x22 Build/button.o
+ .debug_macro   0x00000000       0xbd Build/button.o
+ .debug_macro   0x00000000      0xd23 Build/button.o
+ .debug_macro   0x00000000     0xe09e Build/button.o
+ .debug_macro   0x00000000       0x6d Build/button.o
+ .debug_macro   0x00000000       0xca Build/button.o
+ .debug_macro   0x00000000       0x28 Build/button.o
+ .debug_macro   0x00000000      0x182 Build/button.o
+ .debug_macro   0x00000000       0xee Build/button.o
+ .debug_macro   0x00000000       0x3a Build/button.o
+ .debug_macro   0x00000000       0x1f Build/button.o
+ .debug_macro   0x00000000       0x12 Build/button.o
+ .debug_macro   0x00000000     0x1130 Build/button.o
+ .debug_macro   0x00000000       0xc3 Build/button.o
+ .debug_macro   0x00000000      0x161 Build/button.o
+ .debug_macro   0x00000000       0x80 Build/button.o
+ .group         0x00000000        0xc Build/system_stm32f1xx.o
+ .group         0x00000000        0xc Build/system_stm32f1xx.o
+ .group         0x00000000        0xc Build/system_stm32f1xx.o
+ .group         0x00000000        0xc Build/system_stm32f1xx.o
+ .group         0x00000000        0xc Build/system_stm32f1xx.o
+ .group         0x00000000        0xc Build/system_stm32f1xx.o
+ .group         0x00000000        0xc Build/system_stm32f1xx.o
+ .group         0x00000000        0xc Build/system_stm32f1xx.o
+ .group         0x00000000        0xc Build/system_stm32f1xx.o
+ .group         0x00000000        0xc Build/system_stm32f1xx.o
+ .text          0x00000000        0x0 Build/system_stm32f1xx.o
+ .data          0x00000000        0x0 Build/system_stm32f1xx.o
+ .bss           0x00000000        0x0 Build/system_stm32f1xx.o
+ .text.SystemCoreClockUpdate
+                0x00000000       0x58 Build/system_stm32f1xx.o
+ .rodata.APBPrescTable
+                0x00000000        0x8 Build/system_stm32f1xx.o
+ .rodata.AHBPrescTable
+                0x00000000       0x10 Build/system_stm32f1xx.o
+ .debug_macro   0x00000000      0xac0 Build/system_stm32f1xx.o
+ .debug_macro   0x00000000       0x2e Build/system_stm32f1xx.o
+ .debug_macro   0x00000000       0x22 Build/system_stm32f1xx.o
+ .debug_macro   0x00000000      0x34e Build/system_stm32f1xx.o
+ .debug_macro   0x00000000       0x1c Build/system_stm32f1xx.o
+ .debug_macro   0x00000000       0x22 Build/system_stm32f1xx.o
+ .debug_macro   0x00000000       0xbd Build/system_stm32f1xx.o
+ .debug_macro   0x00000000      0xd23 Build/system_stm32f1xx.o
+ .debug_macro   0x00000000     0xe09e Build/system_stm32f1xx.o
+ .debug_macro   0x00000000       0x6d Build/system_stm32f1xx.o
+ .group         0x00000000        0xc Build/tasks.o
+ .group         0x00000000        0xc Build/tasks.o
+ .group         0x00000000        0xc Build/tasks.o
+ .group         0x00000000        0xc Build/tasks.o
+ .group         0x00000000        0xc Build/tasks.o
+ .group         0x00000000        0xc Build/tasks.o
+ .group         0x00000000        0xc Build/tasks.o
+ .group         0x00000000        0xc Build/tasks.o
+ .group         0x00000000        0xc Build/tasks.o
+ .group         0x00000000        0xc Build/tasks.o
+ .group         0x00000000        0xc Build/tasks.o
+ .group         0x00000000        0xc Build/tasks.o
+ .group         0x00000000        0xc Build/tasks.o
+ .group         0x00000000        0xc Build/tasks.o
+ .group         0x00000000        0xc Build/tasks.o
+ .group         0x00000000        0xc Build/tasks.o
+ .group         0x00000000        0xc Build/tasks.o
+ .group         0x00000000        0xc Build/tasks.o
+ .group         0x00000000        0xc Build/tasks.o
+ .group         0x00000000        0xc Build/tasks.o
+ .group         0x00000000        0xc Build/tasks.o
+ .group         0x00000000        0xc Build/tasks.o
+ .group         0x00000000        0xc Build/tasks.o
+ .group         0x00000000        0xc Build/tasks.o
+ .group         0x00000000        0xc Build/tasks.o
+ .group         0x00000000        0xc Build/tasks.o
+ .group         0x00000000        0xc Build/tasks.o
+ .group         0x00000000        0xc Build/tasks.o
+ .group         0x00000000        0xc Build/tasks.o
+ .group         0x00000000        0xc Build/tasks.o
+ .group         0x00000000        0xc Build/tasks.o
+ .group         0x00000000        0xc Build/tasks.o
+ .group         0x00000000        0xc Build/tasks.o
+ .group         0x00000000        0xc Build/tasks.o
+ .group         0x00000000        0xc Build/tasks.o
+ .group         0x00000000        0xc Build/tasks.o
+ .group         0x00000000        0xc Build/tasks.o
+ .group         0x00000000        0xc Build/tasks.o
+ .group         0x00000000        0xc Build/tasks.o
+ .group         0x00000000        0xc Build/tasks.o
+ .group         0x00000000        0xc Build/tasks.o
+ .group         0x00000000        0xc Build/tasks.o
+ .group         0x00000000        0xc Build/tasks.o
+ .group         0x00000000        0xc Build/tasks.o
+ .text          0x00000000        0x0 Build/tasks.o
+ .data          0x00000000        0x0 Build/tasks.o
+ .bss           0x00000000        0x0 Build/tasks.o
+ .text.vTaskDelete
+                0x00000000      0x104 Build/tasks.o
+ .text.xTaskPeriodicDelay
+                0x00000000       0x78 Build/tasks.o
+ .text.xTaskDelayUntil
+                0x00000000       0x84 Build/tasks.o
+ .text.vTaskResume
+                0x00000000       0xb0 Build/tasks.o
+ .text.xTaskResumeFromISR
+                0x00000000       0xd4 Build/tasks.o
+ .text.vTaskEndScheduler
+                0x00000000       0x34 Build/tasks.o
+ .text.xTaskGetTickCount
+                0x00000000        0xc Build/tasks.o
+ .text.xTaskGetTickCountFromISR
+                0x00000000       0x10 Build/tasks.o
+ .text.pcTaskGetName
+                0x00000000       0x18 Build/tasks.o
+ .text.xTaskCatchUpTicks
+                0x00000000       0x40 Build/tasks.o
+ .text.vTaskSuspend
+                0x00000000       0xf8 Build/tasks.o
+ .text.vTaskPlaceOnUnorderedEventList
+                0x00000000       0x60 Build/tasks.o
+ .text.vTaskRemoveFromUnorderedEventList
+                0x00000000       0xc4 Build/tasks.o
+ .text.vTaskSetTimeOutState
+                0x00000000       0x2c Build/tasks.o
+ .text.xTaskGetCurrentTaskHandle
+                0x00000000        0xc Build/tasks.o
+ .text.xTaskGetCurrentTaskHandleForCore
+                0x00000000       0x10 Build/tasks.o
+ .text.xTaskPriorityInherit
+                0x00000000       0xac Build/tasks.o
+ .text.vTaskPriorityDisinheritAfterTimeout
+                0x00000000       0xa4 Build/tasks.o
+ .text.uxTaskResetEventItemValue
+                0x00000000       0x18 Build/tasks.o
+ .text.pvTaskIncrementMutexHeldCount
+                0x00000000       0x14 Build/tasks.o
+ .text.ulTaskGenericNotifyTake
+                0x00000000       0xb8 Build/tasks.o
+ .text.xTaskGenericNotifyWait
+                0x00000000       0xdc Build/tasks.o
+ .text.xTaskGenericNotify
+                0x00000000      0x108 Build/tasks.o
+ .text.xTaskGenericNotifyFromISR
+                0x00000000      0x144 Build/tasks.o
+ .text.vTaskGenericNotifyGiveFromISR
+                0x00000000      0x108 Build/tasks.o
+ .text.xTaskGenericNotifyStateClear
+                0x00000000       0x3c Build/tasks.o
+ .text.ulTaskGenericNotifyValueClear
+                0x00000000       0x34 Build/tasks.o
+ .text.vTaskResetState
+                0x00000000       0x68 Build/tasks.o
+ .debug_macro   0x00000000      0xac0 Build/tasks.o
+ .debug_macro   0x00000000      0x34e Build/tasks.o
+ .debug_macro   0x00000000       0x16 Build/tasks.o
+ .debug_macro   0x00000000       0x2e Build/tasks.o
+ .debug_macro   0x00000000       0x22 Build/tasks.o
+ .debug_macro   0x00000000       0x1c Build/tasks.o
+ .debug_macro   0x00000000       0x22 Build/tasks.o
+ .debug_macro   0x00000000       0xbd Build/tasks.o
+ .debug_macro   0x00000000      0xd23 Build/tasks.o
+ .debug_macro   0x00000000     0xe09e Build/tasks.o
+ .debug_macro   0x00000000       0x6d Build/tasks.o
+ .debug_macro   0x00000000       0xca Build/tasks.o
+ .debug_macro   0x00000000       0x28 Build/tasks.o
+ .debug_macro   0x00000000      0x182 Build/tasks.o
+ .debug_macro   0x00000000       0xee Build/tasks.o
+ .debug_macro   0x00000000       0x3a Build/tasks.o
+ .debug_macro   0x00000000       0x1f Build/tasks.o
+ .debug_macro   0x00000000       0x12 Build/tasks.o
+ .debug_macro   0x00000000     0x1130 Build/tasks.o
+ .debug_macro   0x00000000       0xc3 Build/tasks.o
+ .debug_macro   0x00000000      0x161 Build/tasks.o
+ .group         0x00000000        0xc Build/queue.o
+ .group         0x00000000        0xc Build/queue.o
+ .group         0x00000000        0xc Build/queue.o
+ .group         0x00000000        0xc Build/queue.o
+ .group         0x00000000        0xc Build/queue.o
+ .group         0x00000000        0xc Build/queue.o
+ .group         0x00000000        0xc Build/queue.o
+ .group         0x00000000        0xc Build/queue.o
+ .group         0x00000000        0xc Build/queue.o
+ .group         0x00000000        0xc Build/queue.o
+ .group         0x00000000        0xc Build/queue.o
+ .group         0x00000000        0xc Build/queue.o
+ .group         0x00000000        0xc Build/queue.o
+ .group         0x00000000        0xc Build/queue.o
+ .group         0x00000000        0xc Build/queue.o
+ .group         0x00000000        0xc Build/queue.o
+ .group         0x00000000        0xc Build/queue.o
+ .group         0x00000000        0xc Build/queue.o
+ .group         0x00000000        0xc Build/queue.o
+ .group         0x00000000        0xc Build/queue.o
+ .group         0x00000000        0xc Build/queue.o
+ .group         0x00000000        0xc Build/queue.o
+ .group         0x00000000        0xc Build/queue.o
+ .group         0x00000000        0xc Build/queue.o
+ .group         0x00000000        0xc Build/queue.o
+ .group         0x00000000        0xc Build/queue.o
+ .group         0x00000000        0xc Build/queue.o
+ .group         0x00000000        0xc Build/queue.o
+ .group         0x00000000        0xc Build/queue.o
+ .group         0x00000000        0xc Build/queue.o
+ .group         0x00000000        0xc Build/queue.o
+ .group         0x00000000        0xc Build/queue.o
+ .group         0x00000000        0xc Build/queue.o
+ .group         0x00000000        0xc Build/queue.o
+ .group         0x00000000        0xc Build/queue.o
+ .group         0x00000000        0xc Build/queue.o
+ .group         0x00000000        0xc Build/queue.o
+ .group         0x00000000        0xc Build/queue.o
+ .group         0x00000000        0xc Build/queue.o
+ .group         0x00000000        0xc Build/queue.o
+ .group         0x00000000        0xc Build/queue.o
+ .group         0x00000000        0xc Build/queue.o
+ .group         0x00000000        0xc Build/queue.o
+ .text          0x00000000        0x0 Build/queue.o
+ .data          0x00000000        0x0 Build/queue.o
+ .bss           0x00000000        0x0 Build/queue.o
+ .text.xQueueGenericSend
+                0x00000000      0x138 Build/queue.o
+ .text.xQueueCreateMutex
+                0x00000000       0x30 Build/queue.o
+ .text.xQueueGiveFromISR
+                0x00000000       0x94 Build/queue.o
+ .text.xQueueSemaphoreTake
+                0x00000000      0x15c Build/queue.o
+ .text.xQueuePeek
+                0x00000000      0x128 Build/queue.o
+ .text.xQueueReceiveFromISR
+                0x00000000       0xb4 Build/queue.o
+ .text.xQueuePeekFromISR
+                0x00000000       0x64 Build/queue.o
+ .text.uxQueueMessagesWaiting
+                0x00000000       0x18 Build/queue.o
+ .text.uxQueueSpacesAvailable
+                0x00000000       0x1c Build/queue.o
+ .text.uxQueueMessagesWaitingFromISR
+                0x00000000        0xc Build/queue.o
+ .text.vQueueDelete
+                0x00000000       0x1c Build/queue.o
+ .text.uxQueueGetQueueItemSize
+                0x00000000        0x4 Build/queue.o
+ .text.uxQueueGetQueueLength
+                0x00000000        0x4 Build/queue.o
+ .text.xQueueIsQueueEmptyFromISR
+                0x00000000       0x10 Build/queue.o
+ .text.xQueueIsQueueFullFromISR
+                0x00000000       0x14 Build/queue.o
+ .debug_macro   0x00000000      0xac0 Build/queue.o
+ .debug_macro   0x00000000       0x24 Build/queue.o
+ .debug_macro   0x00000000       0x22 Build/queue.o
+ .debug_macro   0x00000000       0x60 Build/queue.o
+ .debug_macro   0x00000000       0x94 Build/queue.o
+ .debug_macro   0x00000000       0x3c Build/queue.o
+ .debug_macro   0x00000000       0x34 Build/queue.o
+ .debug_macro   0x00000000       0x16 Build/queue.o
+ .debug_macro   0x00000000      0x11c Build/queue.o
+ .debug_macro   0x00000000       0x9b Build/queue.o
+ .debug_macro   0x00000000       0x57 Build/queue.o
+ .debug_macro   0x00000000      0x364 Build/queue.o
+ .debug_macro   0x00000000       0x16 Build/queue.o
+ .debug_macro   0x00000000       0x4a Build/queue.o
+ .debug_macro   0x00000000       0x34 Build/queue.o
+ .debug_macro   0x00000000       0x10 Build/queue.o
+ .debug_macro   0x00000000       0x52 Build/queue.o
+ .debug_macro   0x00000000      0x1de Build/queue.o
+ .debug_macro   0x00000000       0x16 Build/queue.o
+ .debug_macro   0x00000000       0x29 Build/queue.o
+ .debug_macro   0x00000000       0x16 Build/queue.o
+ .debug_macro   0x00000000       0x3c Build/queue.o
+ .debug_macro   0x00000000      0x34e Build/queue.o
+ .debug_macro   0x00000000       0x16 Build/queue.o
+ .debug_macro   0x00000000       0x2e Build/queue.o
+ .debug_macro   0x00000000       0x22 Build/queue.o
+ .debug_macro   0x00000000       0x1c Build/queue.o
+ .debug_macro   0x00000000       0x22 Build/queue.o
+ .debug_macro   0x00000000       0xbd Build/queue.o
+ .debug_macro   0x00000000      0xd23 Build/queue.o
+ .debug_macro   0x00000000     0xe09e Build/queue.o
+ .debug_macro   0x00000000       0x6d Build/queue.o
+ .debug_macro   0x00000000       0xca Build/queue.o
+ .debug_macro   0x00000000       0x28 Build/queue.o
+ .debug_macro   0x00000000      0x182 Build/queue.o
+ .debug_macro   0x00000000       0xee Build/queue.o
+ .debug_macro   0x00000000       0x3a Build/queue.o
+ .debug_macro   0x00000000       0x1f Build/queue.o
+ .debug_macro   0x00000000       0x12 Build/queue.o
+ .debug_macro   0x00000000     0x1130 Build/queue.o
+ .debug_macro   0x00000000       0xc3 Build/queue.o
+ .debug_macro   0x00000000      0x161 Build/queue.o
+ .debug_macro   0x00000000       0x80 Build/queue.o
+ .group         0x00000000        0xc Build/list.o
+ .group         0x00000000        0xc Build/list.o
+ .group         0x00000000        0xc Build/list.o
+ .group         0x00000000        0xc Build/list.o
+ .group         0x00000000        0xc Build/list.o
+ .group         0x00000000        0xc Build/list.o
+ .group         0x00000000        0xc Build/list.o
+ .group         0x00000000        0xc Build/list.o
+ .group         0x00000000        0xc Build/list.o
+ .group         0x00000000        0xc Build/list.o
+ .group         0x00000000        0xc Build/list.o
+ .group         0x00000000        0xc Build/list.o
+ .group         0x00000000        0xc Build/list.o
+ .group         0x00000000        0xc Build/list.o
+ .group         0x00000000        0xc Build/list.o
+ .group         0x00000000        0xc Build/list.o
+ .group         0x00000000        0xc Build/list.o
+ .group         0x00000000        0xc Build/list.o
+ .group         0x00000000        0xc Build/list.o
+ .group         0x00000000        0xc Build/list.o
+ .group         0x00000000        0xc Build/list.o
+ .group         0x00000000        0xc Build/list.o
+ .group         0x00000000        0xc Build/list.o
+ .group         0x00000000        0xc Build/list.o
+ .group         0x00000000        0xc Build/list.o
+ .group         0x00000000        0xc Build/list.o
+ .group         0x00000000        0xc Build/list.o
+ .group         0x00000000        0xc Build/list.o
+ .group         0x00000000        0xc Build/list.o
+ .group         0x00000000        0xc Build/list.o
+ .group         0x00000000        0xc Build/list.o
+ .group         0x00000000        0xc Build/list.o
+ .group         0x00000000        0xc Build/list.o
+ .group         0x00000000        0xc Build/list.o
+ .group         0x00000000        0xc Build/list.o
+ .group         0x00000000        0xc Build/list.o
+ .group         0x00000000        0xc Build/list.o
+ .group         0x00000000        0xc Build/list.o
+ .group         0x00000000        0xc Build/list.o
+ .text          0x00000000        0x0 Build/list.o
+ .data          0x00000000        0x0 Build/list.o
+ .bss           0x00000000        0x0 Build/list.o
+ .text.vListInsertEnd
+                0x00000000       0x1c Build/list.o
+ .debug_macro   0x00000000      0xac0 Build/list.o
+ .debug_macro   0x00000000       0x24 Build/list.o
+ .debug_macro   0x00000000       0x22 Build/list.o
+ .debug_macro   0x00000000       0x60 Build/list.o
+ .debug_macro   0x00000000       0x94 Build/list.o
+ .debug_macro   0x00000000       0x3c Build/list.o
+ .debug_macro   0x00000000       0x34 Build/list.o
+ .debug_macro   0x00000000       0x16 Build/list.o
+ .debug_macro   0x00000000      0x11c Build/list.o
+ .debug_macro   0x00000000       0x9b Build/list.o
+ .debug_macro   0x00000000       0x57 Build/list.o
+ .debug_macro   0x00000000      0x364 Build/list.o
+ .debug_macro   0x00000000       0x16 Build/list.o
+ .debug_macro   0x00000000       0x4a Build/list.o
+ .debug_macro   0x00000000       0x34 Build/list.o
+ .debug_macro   0x00000000       0x10 Build/list.o
+ .debug_macro   0x00000000       0x52 Build/list.o
+ .debug_macro   0x00000000      0x1de Build/list.o
+ .debug_macro   0x00000000       0x16 Build/list.o
+ .debug_macro   0x00000000       0x29 Build/list.o
+ .debug_macro   0x00000000      0x34e Build/list.o
+ .debug_macro   0x00000000       0x16 Build/list.o
+ .debug_macro   0x00000000       0x2e Build/list.o
+ .debug_macro   0x00000000       0x22 Build/list.o
+ .debug_macro   0x00000000       0x1c Build/list.o
+ .debug_macro   0x00000000       0x22 Build/list.o
+ .debug_macro   0x00000000       0xbd Build/list.o
+ .debug_macro   0x00000000      0xd23 Build/list.o
+ .debug_macro   0x00000000     0xe09e Build/list.o
+ .debug_macro   0x00000000       0x6d Build/list.o
+ .debug_macro   0x00000000       0xca Build/list.o
+ .debug_macro   0x00000000       0x28 Build/list.o
+ .debug_macro   0x00000000      0x182 Build/list.o
+ .debug_macro   0x00000000       0xee Build/list.o
+ .debug_macro   0x00000000       0x3a Build/list.o
+ .debug_macro   0x00000000       0x1f Build/list.o
+ .debug_macro   0x00000000       0x12 Build/list.o
+ .debug_macro   0x00000000     0x1130 Build/list.o
+ .debug_macro   0x00000000       0xc3 Build/list.o
+ .group         0x00000000        0xc Build/port.o
+ .group         0x00000000        0xc Build/port.o
+ .group         0x00000000        0xc Build/port.o
+ .group         0x00000000        0xc Build/port.o
+ .group         0x00000000        0xc Build/port.o
+ .group         0x00000000        0xc Build/port.o
+ .group         0x00000000        0xc Build/port.o
+ .group         0x00000000        0xc Build/port.o
+ .group         0x00000000        0xc Build/port.o
+ .group         0x00000000        0xc Build/port.o
+ .group         0x00000000        0xc Build/port.o
+ .group         0x00000000        0xc Build/port.o
+ .group         0x00000000        0xc Build/port.o
+ .group         0x00000000        0xc Build/port.o
+ .group         0x00000000        0xc Build/port.o
+ .group         0x00000000        0xc Build/port.o
+ .group         0x00000000        0xc Build/port.o
+ .group         0x00000000        0xc Build/port.o
+ .group         0x00000000        0xc Build/port.o
+ .group         0x00000000        0xc Build/port.o
+ .group         0x00000000        0xc Build/port.o
+ .group         0x00000000        0xc Build/port.o
+ .text          0x00000000        0x0 Build/port.o
+ .data          0x00000000        0x0 Build/port.o
+ .bss           0x00000000        0x0 Build/port.o
+ .text.vPortEndScheduler
+                0x00000000       0x14 Build/port.o
+ .debug_macro   0x00000000      0xac0 Build/port.o
+ .debug_macro   0x00000000      0x190 Build/port.o
+ .debug_macro   0x00000000      0x34e Build/port.o
+ .debug_macro   0x00000000       0x16 Build/port.o
+ .debug_macro   0x00000000       0x2e Build/port.o
+ .debug_macro   0x00000000       0x22 Build/port.o
+ .debug_macro   0x00000000       0x1c Build/port.o
+ .debug_macro   0x00000000       0x22 Build/port.o
+ .debug_macro   0x00000000       0xbd Build/port.o
+ .debug_macro   0x00000000      0xd23 Build/port.o
+ .debug_macro   0x00000000     0xe09e Build/port.o
+ .debug_macro   0x00000000       0x6d Build/port.o
+ .debug_macro   0x00000000       0xca Build/port.o
+ .debug_macro   0x00000000       0x28 Build/port.o
+ .debug_macro   0x00000000      0x182 Build/port.o
+ .debug_macro   0x00000000       0xee Build/port.o
+ .debug_macro   0x00000000       0x3a Build/port.o
+ .debug_macro   0x00000000       0x1f Build/port.o
+ .debug_macro   0x00000000       0x12 Build/port.o
+ .debug_macro   0x00000000     0x1130 Build/port.o
+ .debug_macro   0x00000000       0xc3 Build/port.o
+ .debug_macro   0x00000000      0x161 Build/port.o
+ .group         0x00000000        0xc Build/heap_4.o
+ .group         0x00000000        0xc Build/heap_4.o
+ .group         0x00000000        0xc Build/heap_4.o
+ .group         0x00000000        0xc Build/heap_4.o
+ .group         0x00000000        0xc Build/heap_4.o
+ .group         0x00000000        0xc Build/heap_4.o
+ .group         0x00000000        0xc Build/heap_4.o
+ .group         0x00000000        0xc Build/heap_4.o
+ .group         0x00000000        0xc Build/heap_4.o
+ .group         0x00000000        0xc Build/heap_4.o
+ .group         0x00000000        0xc Build/heap_4.o
+ .group         0x00000000        0xc Build/heap_4.o
+ .group         0x00000000        0xc Build/heap_4.o
+ .group         0x00000000        0xc Build/heap_4.o
+ .group         0x00000000        0xc Build/heap_4.o
+ .group         0x00000000        0xc Build/heap_4.o
+ .group         0x00000000        0xc Build/heap_4.o
+ .group         0x00000000        0xc Build/heap_4.o
+ .group         0x00000000        0xc Build/heap_4.o
+ .group         0x00000000        0xc Build/heap_4.o
+ .group         0x00000000        0xc Build/heap_4.o
+ .group         0x00000000        0xc Build/heap_4.o
+ .group         0x00000000        0xc Build/heap_4.o
+ .group         0x00000000        0xc Build/heap_4.o
+ .group         0x00000000        0xc Build/heap_4.o
+ .group         0x00000000        0xc Build/heap_4.o
+ .group         0x00000000        0xc Build/heap_4.o
+ .group         0x00000000        0xc Build/heap_4.o
+ .group         0x00000000        0xc Build/heap_4.o
+ .group         0x00000000        0xc Build/heap_4.o
+ .group         0x00000000        0xc Build/heap_4.o
+ .group         0x00000000        0xc Build/heap_4.o
+ .group         0x00000000        0xc Build/heap_4.o
+ .group         0x00000000        0xc Build/heap_4.o
+ .group         0x00000000        0xc Build/heap_4.o
+ .group         0x00000000        0xc Build/heap_4.o
+ .group         0x00000000        0xc Build/heap_4.o
+ .group         0x00000000        0xc Build/heap_4.o
+ .group         0x00000000        0xc Build/heap_4.o
+ .group         0x00000000        0xc Build/heap_4.o
+ .group         0x00000000        0xc Build/heap_4.o
+ .group         0x00000000        0xc Build/heap_4.o
+ .text          0x00000000        0x0 Build/heap_4.o
+ .data          0x00000000        0x0 Build/heap_4.o
+ .bss           0x00000000        0x0 Build/heap_4.o
+ .text.xPortGetFreeHeapSize
+                0x00000000        0xc Build/heap_4.o
+ .text.xPortGetMinimumEverFreeHeapSize
+                0x00000000        0xc Build/heap_4.o
+ .text.xPortResetHeapMinimumEverFreeHeapSize
+                0x00000000       0x14 Build/heap_4.o
+ .text.vPortInitialiseBlocks
+                0x00000000        0x4 Build/heap_4.o
+ .text.pvPortCalloc
+                0x00000000       0x28 Build/heap_4.o
+ .text.vPortGetHeapStats
+                0x00000000       0x88 Build/heap_4.o
+ .text.vPortHeapResetState
+                0x00000000       0x30 Build/heap_4.o
+ .debug_macro   0x00000000      0xac0 Build/heap_4.o
+ .debug_macro   0x00000000       0x24 Build/heap_4.o
+ .debug_macro   0x00000000       0x22 Build/heap_4.o
+ .debug_macro   0x00000000       0x60 Build/heap_4.o
+ .debug_macro   0x00000000       0x94 Build/heap_4.o
+ .debug_macro   0x00000000       0x3c Build/heap_4.o
+ .debug_macro   0x00000000       0x34 Build/heap_4.o
+ .debug_macro   0x00000000       0x16 Build/heap_4.o
+ .debug_macro   0x00000000      0x11c Build/heap_4.o
+ .debug_macro   0x00000000       0x9b Build/heap_4.o
+ .debug_macro   0x00000000       0x57 Build/heap_4.o
+ .debug_macro   0x00000000      0x364 Build/heap_4.o
+ .debug_macro   0x00000000       0x16 Build/heap_4.o
+ .debug_macro   0x00000000       0x4a Build/heap_4.o
+ .debug_macro   0x00000000       0x34 Build/heap_4.o
+ .debug_macro   0x00000000       0x10 Build/heap_4.o
+ .debug_macro   0x00000000       0x52 Build/heap_4.o
+ .debug_macro   0x00000000      0x1de Build/heap_4.o
+ .debug_macro   0x00000000       0x16 Build/heap_4.o
+ .debug_macro   0x00000000       0x29 Build/heap_4.o
+ .debug_macro   0x00000000       0x16 Build/heap_4.o
+ .debug_macro   0x00000000       0x3c Build/heap_4.o
+ .debug_macro   0x00000000      0x34e Build/heap_4.o
+ .debug_macro   0x00000000       0x16 Build/heap_4.o
+ .debug_macro   0x00000000       0x2e Build/heap_4.o
+ .debug_macro   0x00000000       0x22 Build/heap_4.o
+ .debug_macro   0x00000000       0x1c Build/heap_4.o
+ .debug_macro   0x00000000       0x22 Build/heap_4.o
+ .debug_macro   0x00000000       0xbd Build/heap_4.o
+ .debug_macro   0x00000000      0xd23 Build/heap_4.o
+ .debug_macro   0x00000000     0xe09e Build/heap_4.o
+ .debug_macro   0x00000000       0x6d Build/heap_4.o
+ .debug_macro   0x00000000       0xca Build/heap_4.o
+ .debug_macro   0x00000000       0x28 Build/heap_4.o
+ .debug_macro   0x00000000      0x182 Build/heap_4.o
+ .debug_macro   0x00000000       0xee Build/heap_4.o
+ .debug_macro   0x00000000       0x3a Build/heap_4.o
+ .debug_macro   0x00000000       0x1f Build/heap_4.o
+ .debug_macro   0x00000000       0x12 Build/heap_4.o
+ .debug_macro   0x00000000     0x1130 Build/heap_4.o
+ .debug_macro   0x00000000       0xc3 Build/heap_4.o
+ .debug_macro   0x00000000      0x161 Build/heap_4.o
+ .text          0x00000000       0x14 Build/startup_stm32f103xb.o
+ .data          0x00000000        0x0 Build/startup_stm32f103xb.o
+ .bss           0x00000000        0x0 Build/startup_stm32f103xb.o
+ .data          0x00000000        0x0 /usr/lib/gcc/arm-none-eabi/14.2.1/../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(libc_a-memcpy.o)
+ .bss           0x00000000        0x0 /usr/lib/gcc/arm-none-eabi/14.2.1/../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(libc_a-memcpy.o)
+ .ARM.extab     0x00000000        0x0 /usr/lib/gcc/arm-none-eabi/14.2.1/../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(libc_a-memcpy.o)
+ .data          0x00000000        0x0 /usr/lib/gcc/arm-none-eabi/14.2.1/../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(libc_a-memset.o)
+ .bss           0x00000000        0x0 /usr/lib/gcc/arm-none-eabi/14.2.1/../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(libc_a-memset.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+RAM              0x20000000         0x00005000         xrw
+FLASH            0x08000000         0x00010000         xr
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD Build/main.o
+LOAD Build/uart.o
+LOAD Build/button.o
+LOAD Build/system_stm32f1xx.o
+LOAD Build/tasks.o
+LOAD Build/queue.o
+LOAD Build/list.o
+LOAD Build/port.o
+LOAD Build/heap_4.o
+LOAD Build/startup_stm32f103xb.o
+LOAD /usr/lib/gcc/arm-none-eabi/14.2.1/../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a
+LOAD /usr/lib/gcc/arm-none-eabi/14.2.1/thumb/v7-m/nofp/libgcc.a
+                0x20005000                        _estack = 0x20005000
+                0x00000200                        _Min_Heap_Size = 0x200
+                0x00000400                        _Min_Stack_Size = 0x400
+
+.isr_vector     0x08000000      0x10c
+                0x08000000                        . = ALIGN (0x4)
+ *(.isr_vector)
+ .isr_vector    0x08000000      0x10c Build/startup_stm32f103xb.o
+                0x08000000                g_pfnVectors
+                0x0800010c                        . = ALIGN (0x4)
+
+.text           0x0800010c     0x18a0
+                0x0800010c                        . = ALIGN (0x4)
+ *(.text)
+ .text          0x0800010c       0xec /usr/lib/gcc/arm-none-eabi/14.2.1/../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(libc_a-memcpy.o)
+                0x0800010c                memcpy
+ .text          0x080001f8       0x9c /usr/lib/gcc/arm-none-eabi/14.2.1/../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(libc_a-memset.o)
+                0x080001f8                memset
+ *(.text*)
+ .text.UART_Task
+                0x08000294       0x44 Build/main.o
+ .text.startup.main
+                0x080002d8       0x48 Build/main.o
+                0x080002d8                main
+ .text.UART1_Init
+                0x08000320       0x54 Build/uart.o
+                0x08000320                UART1_Init
+ .text.UART1_SendText
+                0x08000374       0x1c Build/uart.o
+                0x08000374                UART1_SendText
+ .text.UART1_SendUnsigned
+                0x08000390       0x50 Build/uart.o
+                0x08000390                UART1_SendUnsigned
+ .text.Button_EXTI_Init
+                0x080003e0       0xa8 Build/button.o
+                0x080003e0                Button_EXTI_Init
+ .text.Button_EXTI_Enable
+                0x08000488       0x24 Build/button.o
+                0x08000488                Button_EXTI_Enable
+ .text.Led_Blink
+                0x080004ac       0x18 Build/button.o
+                0x080004ac                Led_Blink
+ .text.Button_WaitRelease
+                0x080004c4       0x3c Build/button.o
+                0x080004c4                Button_WaitRelease
+ .text.EXTI9_5_IRQHandler
+                0x08000500       0x6c Build/button.o
+                0x08000500                EXTI9_5_IRQHandler
+ .text.SystemInit
+                0x0800056c       0x70 Build/system_stm32f1xx.o
+                0x0800056c                SystemInit
+ .text.__libc_init_array
+                0x080005dc        0x4 Build/system_stm32f1xx.o
+                0x080005dc                __libc_init_array
+ .text.prvAddCurrentTaskToDelayedList
+                0x080005e0       0xc8 Build/tasks.o
+ .text.prvCheckTasksWaitingTermination
+                0x080006a8       0x4c Build/tasks.o
+ .text.prvIdleTask
+                0x080006f4       0x34 Build/tasks.o
+ .text.xTaskIncrementTick.part.0
+                0x08000728      0x1a8 Build/tasks.o
+ .text.xTaskResumeAll.part.0
+                0x080008d0      0x188 Build/tasks.o
+ .text.xTaskCreate
+                0x08000a58      0x1e0 Build/tasks.o
+                0x08000a58                xTaskCreate
+ .text.vTaskDelay
+                0x08000c38       0x4c Build/tasks.o
+                0x08000c38                vTaskDelay
+ .text.vTaskStartScheduler
+                0x08000c84       0x74 Build/tasks.o
+                0x08000c84                vTaskStartScheduler
+ .text.vTaskSuspendAll
+                0x08000cf8       0x10 Build/tasks.o
+                0x08000cf8                vTaskSuspendAll
+ .text.xTaskResumeAll
+                0x08000d08       0x1c Build/tasks.o
+                0x08000d08                xTaskResumeAll
+ .text.uxTaskGetNumberOfTasks
+                0x08000d24        0xc Build/tasks.o
+                0x08000d24                uxTaskGetNumberOfTasks
+ .text.xTaskIncrementTick
+                0x08000d30       0x20 Build/tasks.o
+                0x08000d30                xTaskIncrementTick
+ .text.vTaskSwitchContext
+                0x08000d50       0x68 Build/tasks.o
+                0x08000d50                vTaskSwitchContext
+ .text.vTaskPlaceOnEventList
+                0x08000db8       0x24 Build/tasks.o
+                0x08000db8                vTaskPlaceOnEventList
+ .text.xTaskRemoveFromEventList
+                0x08000ddc       0xe8 Build/tasks.o
+                0x08000ddc                xTaskRemoveFromEventList
+ .text.vTaskInternalSetTimeOutState
+                0x08000ec4       0x18 Build/tasks.o
+                0x08000ec4                vTaskInternalSetTimeOutState
+ .text.xTaskCheckForTimeOut
+                0x08000edc       0x6c Build/tasks.o
+                0x08000edc                xTaskCheckForTimeOut
+ .text.vTaskMissedYield
+                0x08000f48        0xc Build/tasks.o
+                0x08000f48                vTaskMissedYield
+ .text.xTaskPriorityDisinherit
+                0x08000f54       0xa8 Build/tasks.o
+                0x08000f54                xTaskPriorityDisinherit
+ .text.prvCopyDataToQueue
+                0x08000ffc       0x78 Build/queue.o
+ .text.prvUnlockQueue
+                0x08001074       0x8c Build/queue.o
+ .text.xQueueGenericReset
+                0x08001100       0x84 Build/queue.o
+                0x08001100                xQueueGenericReset
+ .text.xQueueGenericCreate
+                0x08001184       0x48 Build/queue.o
+                0x08001184                xQueueGenericCreate
+ .text.xQueueGenericSendFromISR
+                0x080011cc       0xb0 Build/queue.o
+                0x080011cc                xQueueGenericSendFromISR
+ .text.xQueueReceive
+                0x0800127c      0x130 Build/queue.o
+                0x0800127c                xQueueReceive
+ .text.vListInitialise
+                0x080013ac       0x18 Build/list.o
+                0x080013ac                vListInitialise
+ .text.vListInitialiseItem
+                0x080013c4        0x8 Build/list.o
+                0x080013c4                vListInitialiseItem
+ .text.vListInsert
+                0x080013cc       0x30 Build/list.o
+                0x080013cc                vListInsert
+ .text.uxListRemove
+                0x080013fc       0x24 Build/list.o
+                0x080013fc                uxListRemove
+ .text.prvTaskExitError
+                0x08001420       0x30 Build/port.o
+ .text.SVC_Handler
+                0x08001450       0x24 Build/port.o
+                0x08001450                SVC_Handler
+ .text.prvPortStartFirstTask
+                0x08001474       0x20 Build/port.o
+ .text.PendSV_Handler
+                0x08001494       0x44 Build/port.o
+                0x08001494                PendSV_Handler
+ .text.pxPortInitialiseStack
+                0x080014d8       0x24 Build/port.o
+                0x080014d8                pxPortInitialiseStack
+ .text.vPortEnterCritical
+                0x080014fc       0x34 Build/port.o
+                0x080014fc                vPortEnterCritical
+ .text.vPortExitCritical
+                0x08001530       0x1c Build/port.o
+                0x08001530                vPortExitCritical
+ .text.SysTick_Handler
+                0x0800154c       0x2c Build/port.o
+                0x0800154c                SysTick_Handler
+ .text.vPortSetupTimerInterrupt
+                0x08001578       0x2c Build/port.o
+                0x08001578                vPortSetupTimerInterrupt
+ .text.xPortStartScheduler
+                0x080015a4      0x114 Build/port.o
+                0x080015a4                xPortStartScheduler
+ .text.vPortValidateInterruptPriority
+                0x080016b8       0x40 Build/port.o
+                0x080016b8                vPortValidateInterruptPriority
+ .text.pvPortMalloc
+                0x080016f8      0x160 Build/heap_4.o
+                0x080016f8                pvPortMalloc
+ .text.vPortFree
+                0x08001858       0xe4 Build/heap_4.o
+                0x08001858                vPortFree
+ .text.Reset_Handler
+                0x0800193c       0x48 Build/startup_stm32f103xb.o
+                0x0800193c                Reset_Handler
+ .text.Default_Handler
+                0x08001984        0x2 Build/startup_stm32f103xb.o
+                0x08001984                RTC_Alarm_IRQHandler
+                0x08001984                EXTI2_IRQHandler
+                0x08001984                DebugMon_Handler
+                0x08001984                TIM1_CC_IRQHandler
+                0x08001984                HardFault_Handler
+                0x08001984                PVD_IRQHandler
+                0x08001984                NMI_Handler
+                0x08001984                EXTI3_IRQHandler
+                0x08001984                EXTI0_IRQHandler
+                0x08001984                I2C2_EV_IRQHandler
+                0x08001984                UsageFault_Handler
+                0x08001984                ADC1_2_IRQHandler
+                0x08001984                SPI1_IRQHandler
+                0x08001984                TAMPER_IRQHandler
+                0x08001984                DMA1_Channel4_IRQHandler
+                0x08001984                USART3_IRQHandler
+                0x08001984                RTC_IRQHandler
+                0x08001984                DMA1_Channel7_IRQHandler
+                0x08001984                CAN1_RX1_IRQHandler
+                0x08001984                TIM4_IRQHandler
+                0x08001984                I2C1_EV_IRQHandler
+                0x08001984                DMA1_Channel6_IRQHandler
+                0x08001984                TIM3_IRQHandler
+                0x08001984                RCC_IRQHandler
+                0x08001984                TIM1_TRG_COM_IRQHandler
+                0x08001984                DMA1_Channel1_IRQHandler
+                0x08001984                Default_Handler
+                0x08001984                EXTI15_10_IRQHandler
+                0x08001984                SPI2_IRQHandler
+                0x08001984                MemManage_Handler
+                0x08001984                DMA1_Channel5_IRQHandler
+                0x08001984                EXTI4_IRQHandler
+                0x08001984                USB_LP_CAN1_RX0_IRQHandler
+                0x08001984                USB_HP_CAN1_TX_IRQHandler
+                0x08001984                DMA1_Channel3_IRQHandler
+                0x08001984                TIM1_UP_IRQHandler
+                0x08001984                WWDG_IRQHandler
+                0x08001984                TIM2_IRQHandler
+                0x08001984                TIM1_BRK_IRQHandler
+                0x08001984                EXTI1_IRQHandler
+                0x08001984                USART2_IRQHandler
+                0x08001984                I2C2_ER_IRQHandler
+                0x08001984                DMA1_Channel2_IRQHandler
+                0x08001984                CAN1_SCE_IRQHandler
+                0x08001984                FLASH_IRQHandler
+                0x08001984                BusFault_Handler
+                0x08001984                USART1_IRQHandler
+                0x08001984                I2C1_ER_IRQHandler
+                0x08001984                USBWakeUp_IRQHandler
+ *(.rodata)
+ *(.rodata*)
+ *fill*         0x08001986        0x2 
+ .rodata.UART_Task.str1.4
+                0x08001988       0x1d Build/main.o
+                                 0x17 (size before relaxing)
+ .rodata.main.str1.4
+                0x080019a5        0x0 Build/main.o
+                                  0x5 (size before relaxing)
+ *fill*         0x080019a5        0x3 
+ .rodata.uxTopUsedPriority
+                0x080019a8        0x4 Build/tasks.o
+                0x080019ac                        . = ALIGN (0x4)
+                0x080019ac                        _etext = .
+                0x080019b4                        _sidata = LOADADDR (.data)
+
+.glue_7         0x080019ac        0x0
+ .glue_7        0x080019ac        0x0 linker stubs
+
+.glue_7t        0x080019ac        0x0
+ .glue_7t       0x080019ac        0x0 linker stubs
+
+.vfp11_veneer   0x080019ac        0x0
+ .vfp11_veneer  0x080019ac        0x0 linker stubs
+
+.v4_bx          0x080019ac        0x0
+ .v4_bx         0x080019ac        0x0 linker stubs
+
+.iplt           0x080019ac        0x0
+ .iplt          0x080019ac        0x0 Build/main.o
+
+.rel.dyn        0x080019ac        0x0
+ .rel.iplt      0x080019ac        0x0 Build/main.o
+
+.ARM.exidx      0x080019ac        0x8
+ .ARM.exidx     0x080019ac        0x8 /usr/lib/gcc/arm-none-eabi/14.2.1/../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(libc_a-memcpy.o)
+
+.data           0x20000000        0x8 load address 0x080019b4
+                0x20000000                        . = ALIGN (0x4)
+                0x20000000                        _sdata = .
+ *(.data)
+ *(.data*)
+ .data.SystemCoreClock
+                0x20000000        0x4 Build/system_stm32f1xx.o
+                0x20000000                SystemCoreClock
+ .data.uxCriticalNesting
+                0x20000004        0x4 Build/port.o
+                0x20000008                        . = ALIGN (0x4)
+                0x20000008                        _edata = .
+
+.igot.plt       0x20000008        0x0 load address 0x080019bc
+ .igot.plt      0x20000008        0x0 Build/main.o
+
+.bss            0x20000008     0x2134 load address 0x080019bc
+                0x20000008                        . = ALIGN (0x4)
+                0x20000008                        _sbss = .
+                0x20000008                        __bss_start__ = _sbss
+ *(.bss)
+ *(.bss*)
+ .bss.countQueue
+                0x20000008        0x4 Build/main.o
+ .bss.buttonCount
+                0x2000000c        0x4 Build/button.o
+ .bss.countQueue
+                0x20000010        0x4 Build/button.o
+ .bss.uxSchedulerSuspended
+                0x20000014        0x4 Build/tasks.o
+ .bss.xIdleTaskHandles
+                0x20000018        0x4 Build/tasks.o
+ .bss.xNextTaskUnblockTime
+                0x2000001c        0x4 Build/tasks.o
+ .bss.uxTaskNumber
+                0x20000020        0x4 Build/tasks.o
+ .bss.xNumOfOverflows
+                0x20000024        0x4 Build/tasks.o
+ .bss.xYieldPendings
+                0x20000028        0x4 Build/tasks.o
+ .bss.xPendedTicks
+                0x2000002c        0x4 Build/tasks.o
+ .bss.xSchedulerRunning
+                0x20000030        0x4 Build/tasks.o
+ .bss.uxTopReadyPriority
+                0x20000034        0x4 Build/tasks.o
+ .bss.xTickCount
+                0x20000038        0x4 Build/tasks.o
+ .bss.uxCurrentNumberOfTasks
+                0x2000003c        0x4 Build/tasks.o
+ .bss.xSuspendedTaskList
+                0x20000040       0x14 Build/tasks.o
+ .bss.uxDeletedTasksWaitingCleanUp
+                0x20000054        0x4 Build/tasks.o
+ .bss.xTasksWaitingTermination
+                0x20000058       0x14 Build/tasks.o
+ .bss.xPendingReadyList
+                0x2000006c       0x14 Build/tasks.o
+ .bss.pxOverflowDelayedTaskList
+                0x20000080        0x4 Build/tasks.o
+ .bss.pxDelayedTaskList
+                0x20000084        0x4 Build/tasks.o
+ .bss.xDelayedTaskList2
+                0x20000088       0x14 Build/tasks.o
+ .bss.xDelayedTaskList1
+                0x2000009c       0x14 Build/tasks.o
+ .bss.pxReadyTasksLists
+                0x200000b0       0x64 Build/tasks.o
+ .bss.pxCurrentTCB
+                0x20000114        0x4 Build/tasks.o
+                0x20000114                pxCurrentTCB
+ .bss.ulMaxPRIGROUPValue
+                0x20000118        0x4 Build/port.o
+ .bss.ucMaxSysCallPriority
+                0x2000011c        0x1 Build/port.o
+ *fill*         0x2000011d        0x3 
+ .bss.xNumberOfSuccessfulFrees
+                0x20000120        0x4 Build/heap_4.o
+ .bss.xNumberOfSuccessfulAllocations
+                0x20000124        0x4 Build/heap_4.o
+ .bss.xMinimumEverFreeBytesRemaining
+                0x20000128        0x4 Build/heap_4.o
+ .bss.xFreeBytesRemaining
+                0x2000012c        0x4 Build/heap_4.o
+ .bss.pxEnd     0x20000130        0x4 Build/heap_4.o
+ .bss.xStart    0x20000134        0x8 Build/heap_4.o
+ .bss.ucHeap    0x2000013c     0x2000 Build/heap_4.o
+ *(COMMON)
+                0x2000213c                        . = ALIGN (0x4)
+                0x2000213c                        _ebss = .
+                0x2000213c                        __bss_end__ = _ebss
+OUTPUT(Bin/tuan5.elf elf32-littlearm)
+LOAD linker stubs
+
+.debug_info     0x00000000     0x72db
+ .debug_info    0x00000000      0x345 Build/main.o
+ .debug_info    0x00000345      0x2e5 Build/uart.o
+ .debug_info    0x0000062a      0x9b3 Build/button.o
+ .debug_info    0x00000fdd      0x28f Build/system_stm32f1xx.o
+ .debug_info    0x0000126c     0x3024 Build/tasks.o
+ .debug_info    0x00004290     0x1f9f Build/queue.o
+ .debug_info    0x0000622f      0x2ad Build/list.o
+ .debug_info    0x000064dc      0x593 Build/port.o
+ .debug_info    0x00006a6f      0x6d4 Build/heap_4.o
+ .debug_info    0x00007143       0x30 Build/startup_stm32f103xb.o
+ .debug_info    0x00007173       0x33 /usr/lib/gcc/arm-none-eabi/14.2.1/../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(libc_a-memcpy.o)
+ .debug_info    0x000071a6      0x135 /usr/lib/gcc/arm-none-eabi/14.2.1/../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(libc_a-memset.o)
+
+.debug_abbrev   0x00000000     0x176f
+ .debug_abbrev  0x00000000      0x137 Build/main.o
+ .debug_abbrev  0x00000137      0x18b Build/uart.o
+ .debug_abbrev  0x000002c2      0x278 Build/button.o
+ .debug_abbrev  0x0000053a      0x11c Build/system_stm32f1xx.o
+ .debug_abbrev  0x00000656      0x515 Build/tasks.o
+ .debug_abbrev  0x00000b6b      0x3eb Build/queue.o
+ .debug_abbrev  0x00000f56      0x116 Build/list.o
+ .debug_abbrev  0x0000106c      0x2ed Build/port.o
+ .debug_abbrev  0x00001359      0x313 Build/heap_4.o
+ .debug_abbrev  0x0000166c       0x24 Build/startup_stm32f103xb.o
+ .debug_abbrev  0x00001690       0x28 /usr/lib/gcc/arm-none-eabi/14.2.1/../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(libc_a-memcpy.o)
+ .debug_abbrev  0x000016b8       0xb7 /usr/lib/gcc/arm-none-eabi/14.2.1/../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(libc_a-memset.o)
+
+.debug_loclists
+                0x00000000     0x333b
+ .debug_loclists
+                0x00000000       0x29 Build/main.o
+ .debug_loclists
+                0x00000029       0xd4 Build/uart.o
+ .debug_loclists
+                0x000000fd       0x94 Build/button.o
+ .debug_loclists
+                0x00000191       0x44 Build/system_stm32f1xx.o
+ .debug_loclists
+                0x000001d5     0x1a53 Build/tasks.o
+ .debug_loclists
+                0x00001c28     0x10ca Build/queue.o
+ .debug_loclists
+                0x00002cf2       0x6a Build/list.o
+ .debug_loclists
+                0x00002d5c       0xa8 Build/port.o
+ .debug_loclists
+                0x00002e04      0x3b8 Build/heap_4.o
+ .debug_loclists
+                0x000031bc      0x17f /usr/lib/gcc/arm-none-eabi/14.2.1/../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(libc_a-memset.o)
+
+.debug_aranges  0x00000000      0x498
+ .debug_aranges
+                0x00000000       0x28 Build/main.o
+ .debug_aranges
+                0x00000028       0x30 Build/uart.o
+ .debug_aranges
+                0x00000058       0x40 Build/button.o
+ .debug_aranges
+                0x00000098       0x30 Build/system_stm32f1xx.o
+ .debug_aranges
+                0x000000c8      0x190 Build/tasks.o
+ .debug_aranges
+                0x00000258       0xc0 Build/queue.o
+ .debug_aranges
+                0x00000318       0x40 Build/list.o
+ .debug_aranges
+                0x00000358       0x78 Build/port.o
+ .debug_aranges
+                0x000003d0       0x60 Build/heap_4.o
+ .debug_aranges
+                0x00000430       0x28 Build/startup_stm32f103xb.o
+ .debug_aranges
+                0x00000458       0x20 /usr/lib/gcc/arm-none-eabi/14.2.1/../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(libc_a-memcpy.o)
+ .debug_aranges
+                0x00000478       0x20 /usr/lib/gcc/arm-none-eabi/14.2.1/../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(libc_a-memset.o)
+
+.debug_rnglists
+                0x00000000      0x90e
+ .debug_rnglists
+                0x00000000       0x19 Build/main.o
+ .debug_rnglists
+                0x00000019       0x2e Build/uart.o
+ .debug_rnglists
+                0x00000047       0x57 Build/button.o
+ .debug_rnglists
+                0x0000009e       0x1f Build/system_stm32f1xx.o
+ .debug_rnglists
+                0x000000bd      0x503 Build/tasks.o
+ .debug_rnglists
+                0x000005c0      0x227 Build/queue.o
+ .debug_rnglists
+                0x000007e7       0x2b Build/list.o
+ .debug_rnglists
+                0x00000812       0x8a Build/port.o
+ .debug_rnglists
+                0x0000089c       0x59 Build/heap_4.o
+ .debug_rnglists
+                0x000008f5       0x19 Build/startup_stm32f103xb.o
+
+.debug_macro    0x00000000    0x13093
+ .debug_macro   0x00000000      0x122 Build/main.o
+ .debug_macro   0x00000122      0xac0 Build/main.o
+ .debug_macro   0x00000be2      0x34e Build/main.o
+ .debug_macro   0x00000f30      0x190 Build/main.o
+ .debug_macro   0x000010c0       0x16 Build/main.o
+ .debug_macro   0x000010d6       0x2e Build/main.o
+ .debug_macro   0x00001104       0x22 Build/main.o
+ .debug_macro   0x00001126       0x1c Build/main.o
+ .debug_macro   0x00001142       0x22 Build/main.o
+ .debug_macro   0x00001164       0xbd Build/main.o
+ .debug_macro   0x00001221      0xd23 Build/main.o
+ .debug_macro   0x00001f44     0xe09e Build/main.o
+ .debug_macro   0x0000ffe2       0x6d Build/main.o
+ .debug_macro   0x0001004f       0xca Build/main.o
+ .debug_macro   0x00010119       0x28 Build/main.o
+ .debug_macro   0x00010141      0x182 Build/main.o
+ .debug_macro   0x000102c3       0xee Build/main.o
+ .debug_macro   0x000103b1       0x3a Build/main.o
+ .debug_macro   0x000103eb       0x1f Build/main.o
+ .debug_macro   0x0001040a       0x12 Build/main.o
+ .debug_macro   0x0001041c     0x1130 Build/main.o
+ .debug_macro   0x0001154c       0xc3 Build/main.o
+ .debug_macro   0x0001160f      0x161 Build/main.o
+ .debug_macro   0x00011770       0x80 Build/main.o
+ .debug_macro   0x000117f0       0x7d Build/uart.o
+ .debug_macro   0x0001186d      0x112 Build/button.o
+ .debug_macro   0x0001197f       0x85 Build/system_stm32f1xx.o
+ .debug_macro   0x00011a04      0x2f6 Build/tasks.o
+ .debug_macro   0x00011cfa       0x24 Build/tasks.o
+ .debug_macro   0x00011d1e       0x22 Build/tasks.o
+ .debug_macro   0x00011d40       0x60 Build/tasks.o
+ .debug_macro   0x00011da0       0x94 Build/tasks.o
+ .debug_macro   0x00011e34       0x3c Build/tasks.o
+ .debug_macro   0x00011e70       0x34 Build/tasks.o
+ .debug_macro   0x00011ea4       0x16 Build/tasks.o
+ .debug_macro   0x00011eba      0x11c Build/tasks.o
+ .debug_macro   0x00011fd6       0x9b Build/tasks.o
+ .debug_macro   0x00012071       0x57 Build/tasks.o
+ .debug_macro   0x000120c8      0x364 Build/tasks.o
+ .debug_macro   0x0001242c       0x16 Build/tasks.o
+ .debug_macro   0x00012442       0x4a Build/tasks.o
+ .debug_macro   0x0001248c       0x34 Build/tasks.o
+ .debug_macro   0x000124c0       0x10 Build/tasks.o
+ .debug_macro   0x000124d0       0x52 Build/tasks.o
+ .debug_macro   0x00012522      0x1de Build/tasks.o
+ .debug_macro   0x00012700       0x16 Build/tasks.o
+ .debug_macro   0x00012716       0x29 Build/tasks.o
+ .debug_macro   0x0001273f       0x16 Build/tasks.o
+ .debug_macro   0x00012755       0x3c Build/tasks.o
+ .debug_macro   0x00012791       0x98 Build/tasks.o
+ .debug_macro   0x00012829       0x17 Build/tasks.o
+ .debug_macro   0x00012840      0x262 Build/queue.o
+ .debug_macro   0x00012aa2      0x1d0 Build/list.o
+ .debug_macro   0x00012c72      0x1c1 Build/port.o
+ .debug_macro   0x00012e33      0x260 Build/heap_4.o
+
+.debug_line     0x00000000     0x7b63
+ .debug_line    0x00000000      0x2b8 Build/main.o
+ .debug_line    0x000002b8      0x2a2 Build/uart.o
+ .debug_line    0x0000055a      0x544 Build/button.o
+ .debug_line    0x00000a9e      0x2aa Build/system_stm32f1xx.o
+ .debug_line    0x00000d48     0x3475 Build/tasks.o
+ .debug_line    0x000041bd     0x1dda Build/queue.o
+ .debug_line    0x00005f97      0x520 Build/list.o
+ .debug_line    0x000064b7      0x840 Build/port.o
+ .debug_line    0x00006cf7      0xb94 Build/heap_4.o
+ .debug_line    0x0000788b       0x78 Build/startup_stm32f103xb.o
+ .debug_line    0x00007903       0xbd /usr/lib/gcc/arm-none-eabi/14.2.1/../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(libc_a-memcpy.o)
+ .debug_line    0x000079c0      0x1a3 /usr/lib/gcc/arm-none-eabi/14.2.1/../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(libc_a-memset.o)
+
+.debug_str      0x00000000    0x664f8
+ .debug_str     0x00000000    0x664f8 Build/main.o
+                              0x5f9b1 (size before relaxing)
+ .debug_str     0x000664f8        0x0 Build/uart.o
+                              0x5428c (size before relaxing)
+ .debug_str     0x000664f8        0x0 Build/button.o
+                              0x5fdbc (size before relaxing)
+ .debug_str     0x000664f8        0x0 Build/system_stm32f1xx.o
+                              0x542d9 (size before relaxing)
+ .debug_str     0x000664f8        0x0 Build/tasks.o
+                              0x64151 (size before relaxing)
+ .debug_str     0x000664f8        0x0 Build/queue.o
+                              0x632e7 (size before relaxing)
+ .debug_str     0x000664f8        0x0 Build/list.o
+                              0x60b77 (size before relaxing)
+ .debug_str     0x000664f8        0x0 Build/port.o
+                              0x5fa4d (size before relaxing)
+ .debug_str     0x000664f8        0x0 Build/heap_4.o
+                              0x62712 (size before relaxing)
+ .debug_str     0x000664f8        0x0 Build/startup_stm32f103xb.o
+                                 0x8f (size before relaxing)
+ .debug_str     0x000664f8        0x0 /usr/lib/gcc/arm-none-eabi/14.2.1/../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(libc_a-memcpy.o)
+                                 0xa6 (size before relaxing)
+ .debug_str     0x000664f8        0x0 /usr/lib/gcc/arm-none-eabi/14.2.1/../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(libc_a-memset.o)
+                                0x1a0 (size before relaxing)
+
+.comment        0x00000000       0x26
+ .comment       0x00000000       0x26 Build/main.o
+                                 0x27 (size before relaxing)
+ .comment       0x00000026        0x0 Build/uart.o
+                                 0x27 (size before relaxing)
+ .comment       0x00000026        0x0 Build/button.o
+                                 0x27 (size before relaxing)
+ .comment       0x00000026        0x0 Build/system_stm32f1xx.o
+                                 0x27 (size before relaxing)
+ .comment       0x00000026        0x0 Build/tasks.o
+                                 0x27 (size before relaxing)
+ .comment       0x00000026        0x0 Build/queue.o
+                                 0x27 (size before relaxing)
+ .comment       0x00000026        0x0 Build/list.o
+                                 0x27 (size before relaxing)
+ .comment       0x00000026        0x0 Build/port.o
+                                 0x27 (size before relaxing)
+ .comment       0x00000026        0x0 Build/heap_4.o
+                                 0x27 (size before relaxing)
+ .comment       0x00000026        0x0 /usr/lib/gcc/arm-none-eabi/14.2.1/../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(libc_a-memset.o)
+                                 0x27 (size before relaxing)
+
+.ARM.attributes
+                0x00000000       0x2b
+ .ARM.attributes
+                0x00000000       0x2d Build/main.o
+ .ARM.attributes
+                0x0000002d       0x2d Build/uart.o
+ .ARM.attributes
+                0x0000005a       0x2d Build/button.o
+ .ARM.attributes
+                0x00000087       0x2d Build/system_stm32f1xx.o
+ .ARM.attributes
+                0x000000b4       0x2d Build/tasks.o
+ .ARM.attributes
+                0x000000e1       0x2d Build/queue.o
+ .ARM.attributes
+                0x0000010e       0x2d Build/list.o
+ .ARM.attributes
+                0x0000013b       0x2d Build/port.o
+ .ARM.attributes
+                0x00000168       0x2d Build/heap_4.o
+ .ARM.attributes
+                0x00000195       0x21 Build/startup_stm32f103xb.o
+ .ARM.attributes
+                0x000001b6       0x1b /usr/lib/gcc/arm-none-eabi/14.2.1/../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(libc_a-memcpy.o)
+ .ARM.attributes
+                0x000001d1       0x2d /usr/lib/gcc/arm-none-eabi/14.2.1/../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(libc_a-memset.o)
+
+.debug_frame    0x00000000      0xdd8
+ .debug_frame   0x00000000       0x40 Build/main.o
+ .debug_frame   0x00000040       0x5c Build/uart.o
+ .debug_frame   0x0000009c       0xa4 Build/button.o
+ .debug_frame   0x00000140       0x40 Build/system_stm32f1xx.o
+ .debug_frame   0x00000180      0x664 Build/tasks.o
+ .debug_frame   0x000007e4      0x2f8 Build/queue.o
+ .debug_frame   0x00000adc       0x88 Build/list.o
+ .debug_frame   0x00000b64      0x10c Build/port.o
+ .debug_frame   0x00000c70      0x114 Build/heap_4.o
+ .debug_frame   0x00000d84       0x28 /usr/lib/gcc/arm-none-eabi/14.2.1/../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(libc_a-memcpy.o)
+ .debug_frame   0x00000dac       0x2c /usr/lib/gcc/arm-none-eabi/14.2.1/../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(libc_a-memset.o)
+
+.debug_line_str
+                0x00000000      0x102
+ .debug_line_str
+                0x00000000      0x102 Build/startup_stm32f103xb.o
+                                 0x72 (size before relaxing)
+ .debug_line_str
+                0x00000102        0x0 /usr/lib/gcc/arm-none-eabi/14.2.1/../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(libc_a-memcpy.o)
+                                 0x90 (size before relaxing)
